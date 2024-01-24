@@ -18,7 +18,7 @@ The Hyper-BTS dataset is based on data sourced from TED Talks, AI-HUB, and the N
 ## Citation
 
 ```
-@inproceedings{seo-etal-2022-dog,
+@inproceedings{Park-etal-2024-hyper-bts,
     title = "Hyper-BTS Dataset: Scalability and Enhanced Analysis of Back TranScription (BTS) for ASR Post-Processing",
     author = "Park, Chanjun  and
       Seo, Jaehyung  and
